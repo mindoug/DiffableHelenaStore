@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "type": "ad",
+    "title": "",
+    "items": [
+      {
+        "id": 1,
+        "title": "Opening Celebration",
+        "subtitle": "Sale Up To 50% Off",
+        "image": "youngwoman",
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "type": "category",
+    "title": "",
+    "items": [
+      {
+        "id": 2,
+        "title": "Summer Style",
+        "subtitle": "·",
+        "image": "",
+      },
+      {
+        "id": 3,
+        "title": "T-Shirt",
+        "subtitle": "",
+        "image": "",
+      },
+      {
+        "id": 4,
+        "title": "Dress",
+        "subtitle": "",
+        "image": "",
+      },
+      {
+        "id": 5,
+        "title": "Accessories",
+        "subtitle": "",
+        "image": "",
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "type": "product",
+    "title": "",
+    "items": [
+      {
+        "id": 6,
+        "title": "Wrap-Around",
+        "subtitle": "$49.99",
+        "image": "summer1",
+      },
+      {
+        "id": 7,
+        "title": "Floral",
+        "subtitle": "$67.00",
+        "image": "summer2",
+      },
+      {
+        "id": 8,
+        "title": "Simple Crop",
+        "subtitle": "$43.00",
+        "image": "summer3",
+      },
+      {
+        "id": 9,
+        "title": "Short Dress",
+        "subtitle": "$39.99",
+        "image": "summer4",
+      }
+    ]
+  }
+]
+
